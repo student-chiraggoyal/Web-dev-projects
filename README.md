@@ -21,7 +21,8 @@ This repo contains two very simple yet foundational projects that I built during
   - Importance of indentation and clean code structure
 
 - **Preview Screenshot:**  
-  *(Add a screenshot here if possible)*
+ ![image](https://github.com/user-attachments/assets/9ad5463d-6db0-491c-9885-be1eabfcbd67)
+
 
 ---
 
@@ -40,7 +41,8 @@ This repo contains two very simple yet foundational projects that I built during
   - Visual design fundamentals like spacing, borders, shadows
 
 - **Preview Screenshot:**  
-  *(Add a screenshot here if possible)*
+ ![image](https://github.com/user-attachments/assets/9602500c-e982-46a5-8e05-c89c483f99ed)
+
 
 ---
 
